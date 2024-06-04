@@ -9,7 +9,7 @@
 
 # POO
 ## Meus projetos 
-![nuka_cola-removebg-preview (2)](https://github.com/FelipeFrancoo/POO/assets/163058758/2d8c706f-63e8-4cc8-9221-2d8507b86e05) 
+![nuka_cola-removebg-preview (2)](https://github.com/FelipeFrancoo/POO/assets/163058758/2d8c706f-63e8-4cc8-9221-2d8507b86e05) https://github.com/FelipeFrancoo/POO/tree/main/Trabalho%201
 
 
 
